@@ -6,7 +6,7 @@ print("generating README.md..")
 
 readMeContent = ""
 with open("intro", 'r') as f:
-    readMeContent = f.read().strip() + "\n"
+    readMeContent = f.read().strip() + "\n\n"
 
 paths = glob.glob("img/*")
 for path in paths:
