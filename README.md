@@ -1,10 +1,11 @@
-I'm sharing my screenshot collection here. It's also a pretty accurate self portrait...
-Over time I might start failing to exclude duplicates. I'm trying my best, anyway.
+I'm sharing my screenshot collection here. It's also a pretty accurate self portrait of me...
+Over time I might start failing to exclude duplicates.
 
 This is an updating list.
 
 ![](img/8E32C13D-38F0-43B8-8422-9EA8E874D125.jpg)
 ![](img/WeChat_Image_20190108234859.png)
+![](img/AE34444E-9294-49E0-BCE7-8C5FABDF3285.jpg)
 ![](img/240738DF-2C5C-44A8-8153-705B202C5ADC.jpg)
 ![](img/D1515C57-1870-4F3B-82C3-F1C7F409CFFD.jpg)
 ![](img/Snipaste_2019-01-02_04-26-08.png)
@@ -41,6 +42,7 @@ This is an updating list.
 ![](img/772F11F3-D0F8-4314-8FF2-26CB06267E20.jpg)
 ![](img/9086EBDA-966F-4E93-AFCC-16BA8B8A7FE2.jpg)
 ![](img/7EEDFE35-3B69-455B-8B3A-15E5DF65BCC2.jpg)
+![](img/CA19B3C7-5E6C-4BA7-B979-DBE5CA0F57A0.jpg)
 ![](img/2D4EA71B-A6A7-4A4A-99F4-BC5AA66174F5.jpg)
 ![](img/097F5500-E3C5-49FE-A46A-27935586F4E3.jpg)
 ![](img/0AF50278-8E76-4171-A737-7B12713FCAF5.jpg)
@@ -50,6 +52,7 @@ This is an updating list.
 ![](img/8D7F0616-4611-4028-803A-52DDFD903D26.jpg)
 ![](img/7723036C-F149-4E30-8616-92CBBB471ED1.jpg)
 ![](img/4DB3DF19-0924-4A9A-8752-50D21CAAE1ED.jpg)
+![](img/192CD943-2915-43FD-93AD-750C0528C98F.jpg)
 ![](img/9049B950-1F3C-4A08-977C-A0112214AD0F.jpg)
 ![](img/380C26C2-A2CD-4103-B941-166382202807.jpg)
 ![](img/5BF92C93-1C24-484B-A4E6-15E7255F34DA.jpg)
